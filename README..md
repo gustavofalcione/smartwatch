@@ -1,0 +1,1 @@
+O projeto trata-se de um smart watch, onde em seu display são passadas informacoes como o horario, no formato (h:m:s), a data no formato (dd/mm/aa), o dia da semana em questão, e as informações de tempo, como temperatura e umidade obtidas através do consumo de uma API.
